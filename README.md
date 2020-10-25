@@ -1,3 +1,3 @@
 # SnakeGame
 
-<iframe src="https://giphy.com/embed/ro2KLk6Yb0gAmCGCim" width="456" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a>via GIPHY</a></p>
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:105%;position:relative;"><iframe width="260" height="273" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4jtb68"></iframe></div><p><a href="https://imgflip.com/gif/4jtb68">via Imgflip</a></p></div>
